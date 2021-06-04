@@ -1,6 +1,8 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from 'react-bootstrap/Nav'
+import BackdropFilter from "react-backdrop-filter";
+
 
 import '../Mynavbar/Mynavbar.styles.css'
 
